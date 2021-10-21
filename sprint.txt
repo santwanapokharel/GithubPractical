@@ -1,0 +1,92 @@
+Santwana Pokharel
+QA Automation Class
+
+Scrum activities and real project product
+Product Introduction
+
+This project is regarding the application for the provider. Individual Provider, group, hospital can able to register login, change their password and view the authorization of the member through this online application system.
+
+Product backlog 
+Make Registration for providers.
+Save Data in the Backend Database
+User able to Register with their unique ID provided by the system
+Make a system to create a password for the first time login.
+Forget Username.
+Forget Passwords.
+Retrieve Username through email.
+Retrieve Password through username and security question.
+After login, the provider can be able to view submit authorization.
+
+
+Sprint One
+
+Sprint planning 
+Three Software Developers and One QA.
+Total capacity 80 hours.
+
+
+Sprint backlog
+
+Make provider portal registration.
+Make data save to the backend.
+
+
+
+Daily Scrum
+
+   	Any blocker yesterday
+ 	As a QA:  I test the user login system Yesterday
+I will test the today the database system
+
+
+Sprint Review 
+(Example: We almost done the this Sprint looks like we will done in time )
+Collaborate about what was done in the sprint
+
+Sprint Retrospective
+( Good job everyone to successful  this sprint)
+(We need to improve to communication to each other more  )
+The team member to discuss them self about the the last sprint 
+
+Sprint Two 
+
+Sprint planning 
+Four software developer  and one QA need for this sprint
+List of staff and staff off day 
+Total capacity hour
+
+Sprint backlog
+
+Create a menu button to display all Item and price
+Make a function to display the food description on the left side
+Make a function to display a photo for every Item when the user selected the Item
+Make a function for payment method while restaurant custom paying debit, credit or cash
+
+Sprint planning 
+
+Five software developer and two QA need for this sprint
+List of staff and staff off day 
+We need 2 weeks for this sprint
+
+Daily Scrum
+Any blocker yesterday
+As a QA: I work to test all menu functionality  yesterday
+ goals for today
+
+Sprint Review 
+
+(Example: We almost done the this Sprint looks like we will done in time )
+Collaborate about what was done in the sprint
+
+Sprint Retrospective
+
+( Good job everyone to successful  this sprint)
+(We need to improve to communication to each other more  )
+The team member to discuss them self about the the last sprint 
+
+Potentially shippable Increment
+Restaurant sales system Software delivered to the restaurant 
+
+
+
+
